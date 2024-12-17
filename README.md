@@ -1,6 +1,6 @@
 Wesbite URL: http://jessechatgpt.com  (this domain name was years ago which I registered just for fun)
 
-- Scores calculation tool for IELTS and TOEFL
+- Score calculation tool for IELTS and TOEFL
 - Upload Answer Keys section
 - Answer Keys aceess section
 - Feedback generation section which auto-generates the feedbacks from tencentdoc - sheets
