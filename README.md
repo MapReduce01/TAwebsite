@@ -1,4 +1,4 @@
-Wesbite URL: http://jessechatgpt.com  (this domain was years ago which I registered just for fun)
+Wesbite URL: http://jessechatgpt.com  (this domain name was years ago which I registered just for fun)
 
 - Scores calculation tool for IELTS and TOEFL
 - Upload Answer Keys section
