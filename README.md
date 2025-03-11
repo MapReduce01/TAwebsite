@@ -1,4 +1,4 @@
-Wesbite URL: http://fmtutor.space  (this domain name was years ago which I registered just for fun)
+Wesbite URL: http://fmtutor.space
 
 - Score calculation tool for IELTS and TOEFL
   
