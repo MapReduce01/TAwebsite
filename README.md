@@ -20,8 +20,8 @@ Wesbite URL: http://fmtutor.space
 
 - Search bar
 
-![image](https://github.com/user-attachments/assets/27c6bc03-0c16-4809-8040-1176fdea28fe)
+  ![image](https://github.com/user-attachments/assets/27c6bc03-0c16-4809-8040-1176fdea28fe)
 
-![image](https://github.com/user-attachments/assets/335a18bd-afa1-4d7c-be20-daa8576b10ae)
+  ![image](https://github.com/user-attachments/assets/335a18bd-afa1-4d7c-be20-daa8576b10ae)
 
 
